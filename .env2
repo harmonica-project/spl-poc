@@ -1,0 +1,3 @@
+export STORAGE_TYPE=offchain
+export STORAGE_VARIABLE_TYPE=string
+
